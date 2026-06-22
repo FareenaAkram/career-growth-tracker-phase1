@@ -1,0 +1,24 @@
+{
+  "name": "CareerViz — Career Growth Tracker",
+  "short_name": "CareerViz",
+  "description": "AI-powered career roadmaps and progress tracking for tech professionals.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "orientation": "portrait-primary",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "screenshots": [
+    { "src": "/screenshot-wide.png", "sizes": "1280x720", "type": "image/png", "form_factor": "wide" }
+  ],
+  "shortcuts": [
+    { "name": "Explorer",  "url": "/",         "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Learning",  "url": "/learning",  "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Jobs",      "url": "/jobs",      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
+    { "name": "AI Coach",  "url": "/ai-coach",  "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

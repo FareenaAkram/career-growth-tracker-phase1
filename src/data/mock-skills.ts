@@ -1,0 +1,1 @@
+export const skills=[{name:'React',score:90}];
