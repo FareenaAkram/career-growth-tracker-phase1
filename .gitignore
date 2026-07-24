@@ -3,4 +3,5 @@ dist
 build
 .vite
 .env
+tsconfig.tsbuildinfo
 .next
